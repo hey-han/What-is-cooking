@@ -6,6 +6,6 @@ The project is to explore the cooking culture behind what's cooking dataset from
 
 programming language: Python
 
-label: (1)data analysis    (2)machine learning
+label: (1)data science    (2)machine learning
 
 software: Jupter Notebook
